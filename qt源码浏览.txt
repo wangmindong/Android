@@ -1,2 +1,8 @@
+Qt 相关：
+
+1.源码浏览： 
 https://code.woboq.org/
+2.下载
 http://download.qt.io/archive/qt/
+3.Qt wiki
+https://wiki.qt.io/Threads_Events_QObjects#References
