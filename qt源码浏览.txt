@@ -1,0 +1,2 @@
+https://code.woboq.org/
+http://download.qt.io/archive/qt/
