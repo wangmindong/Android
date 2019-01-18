@@ -6,3 +6,4 @@ https://code.woboq.org/
 http://download.qt.io/archive/qt/
 3.Qt wiki
 https://wiki.qt.io/Threads_Events_QObjects#References
+4.Qt .pro 文件里面打印信息用 message()
