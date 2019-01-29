@@ -4,3 +4,5 @@
 4.https://www.khronos.org/registry/OpenGL-Refpages/
 5.https://blog.csdn.net/wangdingqiaoit
 6.https://me.csdn.net/jeffasd
+7.https://github.com/wangdingqiao
+8.https://github.com/doggycoder

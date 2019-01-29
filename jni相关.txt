@@ -1,0 +1,5 @@
+1.快速定位自定义的类的方法签名：
+
+找到编译生成的class字节码文件目录，
+
+javap -s xx.xx.x.xxxxx.class //.class去掉
